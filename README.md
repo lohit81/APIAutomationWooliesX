@@ -17,6 +17,10 @@ With its simple API and powerful library, REST architecture is the tool of choic
  
  https://github.com/lohit81/APIAutomationWooliesX/issues/1#issue-787682814
  
+ [
+![APIStructure](https://user-images.githubusercontent.com/4488811/104838762-1ebdbf80-5911-11eb-9089-666e39f9d913.png)
+](url)
+ 
 # Implementation
 As per above structure, we have different folders in place such as 
 
